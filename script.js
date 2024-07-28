@@ -1,17 +1,17 @@
 document.addEventListener('DOMContentLoaded', () => {
     const messages = [
-        "💸Sua economia está deteriorando e há insatisfação popular. Consiga +2 pontos de poder nesta rodada ou perca -3 na próxima devido à crescente instabilidade doméstica💸",
-        "Fontes da sua inteligência sugerem que algum jogador com nível de poder próximo ao seu irá atacar na próxima rodada",
-        "Você tem um programa armamentista secreto. Você tem +2 pontos de poder a mais do que o revelado no seu cartão. Esse segredo só é revelado no caso de ataque (para todos) ou se você entrar em aliança (apenas para o aliado)",
-        "Desastre natural! Apague seu contador de poder atual e subtraia 2 pontos", "Descoberta de petróleo! Apague seu contador de poder atual e adicione 1 ponto extra",
-        "Fontes da sua inteligência sugerem que seus vizinhos querem infiltrar-se para subverter seu país. Se você aceitar uma aliança nessa rodada, perderá -1 ponto de poder na próxima", "Free-riding: se você entrar em aliança nessa rodada com alguém 2 pontos mais fraco que você, perderá 1 ponto de poder para cada rodada em que continuar a aliança",
-        "Desfile militar: o poder no seu cartão é de fachada. Na verdade você tem -1 ponto do que o número escrito (segredo, manifeste apenas para calcular resultado de ataques)",
-        "Nenhum evento especial",
-        "Nenhum evento especial",
-        "Nenhum evento especial", 
-        "Nenhum evento especial", 
-        "Nenhum evento especial", 
-        "Nenhum evento especial"
+        "💸 Sua economia está deteriorando e há insatisfação popular. Consiga +2 pontos de poder nesta rodada ou perca -3 na próxima devido à crescente instabilidade doméstica 💸",
+        "🔍 Fontes da sua inteligência sugerem que algum jogador com nível de poder próximo ao seu irá atacar na próxima rodada 🔍",
+        "🕵️‍ Você tem um programa armamentista secreto. Você tem +2 pontos de poder a mais do que o revelado no seu cartão. Esse segredo só é revelado no caso de ataque 🕵️‍",
+        "🌪️ Desastre natural! Apague seu contador de poder atual e subtraia 2 pontos 🌪️", "Descoberta de petróleo! Apague seu contador de poder atual e adicione 1 ponto extra",
+        "🔍 Fontes da sua inteligência sugerem que seus vizinhos querem infiltrar-se para subverter seu país. Se você aceitar uma aliança nessa rodada, perderá -1 ponto de poder na próxima 🔍", "🚲 Free-riding: se você entrar em aliança nessa rodada com alguém 2 pontos mais fraco que você, perderá 1 ponto de poder para cada rodada em que continuar a aliança 🚲",
+        "🎖️ Desfile militar: o poder no seu cartão é de fachada. Na verdade você tem -1 ponto do que o número escrito (segredo, manifeste apenas para calcular resultado de ataques) 🎖️",
+        "🔄 Nenhum evento especial 🔄",
+        "🔄 Nenhum evento especial 🔄",
+        "🔄 Nenhum evento especial 🔄",
+        "🔄 Nenhum evento especial 🔄",
+        "🔄 Nenhum evento especial 🔄",
+        "🔄 Nenhum evento especial 🔄"
     ];
 
     const sequences = [
