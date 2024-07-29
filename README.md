@@ -5,7 +5,7 @@ https://plugrafico.github.io/waltzing_matilda/
 
 # Regras
 1. Grupos de 4 jogadores + 1 auditor
-2. No início, auditor saca a Polaridade do sistema para aquele Jogo. Distribuir em ordem alfabética
+2. No início, auditor saca a Polaridade do sistema para aquele Jogo. Distribuir em ordem alfabética. Jogadores escrevem seus pontos de poder em uma folha visível aos demais.
 3. Conhecida a Polaridade, o auditor mostra para cada jogador seu Evento da rodada
 4. Conhecidos os eventos (e, se preciso, alterados os escores de poder), os jogadores declaram uma jogada. Jogadas incluem: *atacar*, *formar ou quebrar aliança*, *não fazer nada*. Os 4 jogadores, em ordem alfabética, declaram as jogadas primeiro e, depois de anunciadas todas, elas têm efeito.
 5. Num ataque, se poder atacante > atacado, o atacado é conquistado e sai do jogo. Pontos de poder do atacado vão para o atacante vencedor
