@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const sequences = [
         [9, 2, 2, 3],
+        [8, 3, 2, 3],
         [4, 4, 4, 4],
         [5, 5, 3, 3],
         [1, 5, 5, 5],
