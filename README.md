@@ -1,5 +1,8 @@
 # Come a WALTZing matilda with me 🎵
 
+# Link
+https://plugrafico.github.io/waltzing_matilda/
+
 # Regras
 1. Grupos de 4 jogadores + 1 auditor
 2. No início, auditor saca a Polaridade do sistema para aquele Jogo. Distribuir em ordem alfabética
